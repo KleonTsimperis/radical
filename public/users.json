@@ -1,0 +1,38 @@
+[
+  {
+    "userId":1,
+    "name":"Batman",
+    "nick":"Bruce Wayne",
+    "isSelected":true,
+    "isToggling":false,
+    "isEditingUser":false,
+    "comment":"",
+    "email":"theManBat@batman.gov.nz",
+    "phone":"1-800-CALLTHEBAT",
+    "image":"https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "userId":2,
+    "name":"Iron Man",
+    "nick":"Tony Stark",
+    "isSelected":false,
+    "isToggling":false,
+    "isEditingUser":false,
+    "comment":"",
+    "email":"bronze@man.tk",
+    "phone":"99999-99999",
+    "image":"https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "userId":3,
+    "name":"SpiderMan",
+    "nick":"Peter Parker",
+    "isSelected":false,
+    "isToggling":false,
+    "isEditingUser":false,
+    "comment":"",
+    "email":"worldwideweaver@spider.k",
+    "phone":"9090908787-1",
+    "image":"https://randomuser.me/api/portraits/men/3.jpg"
+  }
+]
