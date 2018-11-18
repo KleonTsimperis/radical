@@ -34,13 +34,13 @@ class Menu extends Component {
     return(
       <div className={classes.root}>
         <Grid container>
-          <Grid item xs={3} className={classes.left}>
+          <Grid item md={3} sm={12} className={classes.left}>
             <LeftPane/>
           </Grid>
-          <Grid item xs={6}>
+          <Grid item md={6} sm={12}>
             <CenterPane/>
           </Grid>
-          <Grid item xs={3} className={classes.right}>
+          <Grid item md={3} sm={12} className={classes.right}>
             <RightPane/>
           </Grid>
         </Grid>
